@@ -36,9 +36,9 @@ Phase 5. Model Evaluation and Plotting
 • Georgia vs Saint Louis: Georgia 49.29% | Saint Louis 50.71% → Saint Louis  
 
 🚀 Future Improvements  
-• I toyed around a bit with adding a "Big Bracket Pool Strategy Layer" which optimizes the predicted output bracket to win a pool of 1,000+ people. Completing this code in another file I won't upload, this code allowed for more chaos in late rounds to differentiate it from other strong brackets, and it ultimately had Arizona winning it all this year. I did not win the large pool I was in unfortunately.
-• Efficient function to simulate thousands of brackets, and create a new average/weighted recommended bracket.
-• Greater data inclusion, and more advanced machine learning methods stacked on each other. 
+• I toyed around a bit with adding a "Big Bracket Pool Strategy Layer" which optimizes the predicted output bracket to win a pool of 1,000+ people. Completing this code in another file I won't upload, this code allowed for more chaos in late rounds to differentiate it from other strong brackets, and it ultimately had Arizona winning it all this year. I did not win the large pool I was in unfortunately.  
+• Efficient function to simulate thousands of brackets, and create a new average/weighted recommended bracket.  
+• Greater data inclusion, and more advanced machine learning methods stacked on each other.   
 
 
 💻 How to Run & Tech Used  
